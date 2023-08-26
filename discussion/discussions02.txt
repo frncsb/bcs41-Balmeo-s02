@@ -1,0 +1,8 @@
+Git Commands
+	- git init
+		- allows us to initialize git 
+		-- syntax 
+			git init
+
+- git add .
+- git add - A

@@ -6,3 +6,8 @@ Git Commands
 
 - git add .
 - git add - A
+    - allows us to stage the new file
+
+    - git commit -m "<imperative/instruction>"
+        - commit message must be in imperative form 
+

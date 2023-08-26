@@ -5,3 +5,16 @@ I want to learn how to code and become a software engineer.
 I currently work as an instructor and I love to teach.
 
 Panis! Nagawa ko!
+
+Solution to homework:
+moving files
+mv File.txt NewFile.txt
+mv File.txt ../
+mv File.txt discussion
+
+removing files
+git status
+git add .
+git rm -fr "<Directory>"
+git status
+git add .
